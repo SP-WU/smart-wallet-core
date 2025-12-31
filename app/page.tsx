@@ -1,6 +1,6 @@
 'use client';
 
-import { useUser, AlchemyAccountComponentsProvider, AuthCard } from "@account-kit/react";
+import { AlchemyAccountProvider } from "@account-kit/react"; // ✅
 import { config } from "@/config";
 import "@account-kit/react/styles.css"; // 載入官方樣式
 
