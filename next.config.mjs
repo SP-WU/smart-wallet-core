@@ -5,4 +5,4 @@ const nextConfig = {
   },
 };
 
-export default nextConfig; // 這裡一定要用 export default
+export default nextConfig;
