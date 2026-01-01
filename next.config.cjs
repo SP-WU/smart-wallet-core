@@ -5,4 +5,5 @@ const nextConfig = {
   },
 };
 
-module.exports = nextConfig;
+// 將原本的 module.exports 改成這行：
+export default nextConfig;
